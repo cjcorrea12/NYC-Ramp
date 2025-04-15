@@ -11,4 +11,4 @@ The EDA Phase of the project and the code used to clean the data, as well as the
 
 
 
-This project was able to use a decision tree classifier to succesfully determine which pedestrian ramps fall under the category of critical repairs in order to reduce the number of repairs backlogs. For more details this is the slide deck used to present the project's finding to a non-technical audience:
+This project was able to use a decision tree classifier to succesfully determine which pedestrian ramps fall under the category of critical repairs in order to reduce the number of repairs backlogs. For more details this is the slide deck used to present the project's finding to a non-technical audience: https://github.com/cjcorrea12/NYC-Ramp/blob/main/Analysis%20on%20NYC%20Pedestrian%20Ramp%20Complaints%20Final%20Deck.pdf
